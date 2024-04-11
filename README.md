@@ -111,5 +111,9 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
+    
+## OUTPUT
+<img width="929" alt="csp output" src="https://github.com/Ganesh23013987/19AI405ExpNo8/assets/147473768/7c90ceaa-461a-49bb-bfeb-7ef2a856c24c">
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
